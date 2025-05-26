@@ -1,0 +1,56 @@
+.stories-list {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1rem;
+  padding: 1rem;
+  scrollbar-width: none; /* Firefox */
+}
+
+.stories-list::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+.story-viewer-container {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+
+.stories-list-container,
+.story-viewer-container {
+  transition: opacity 0.3s;
+  opacity: 1;
+}
+
+.fade-in {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.fade-out {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.nav-button {
+    position: absolute;
+    opacity: 0;
+    height: calc(100vh - 80px);
+    top: 32px;
+    width: 80px;
+}
+
+.nav-button.prev {
+    left: 0;
+}
+
+.nav-button.next{
+    right: 0;
+}
