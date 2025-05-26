@@ -2,6 +2,10 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+## Current Deployment
+
+You can preview the latest deployment here: [Live Preview](https://insta-story-git-feature-a-245ae9-abhay-singhs-projects-e8eab2f5.vercel.app/)
+
 ## Running the Application
 
 1. Install dependencies:
@@ -16,7 +20,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
     npm run dev
     ```
 
-3. Open your browser and navigate to [http://localhost:5173](http://localhost:5173) to view the app.
+3. Open your browser and navigate to [Local Preview](http://localhost:5173) to view the app.
 
 4. Start the e2e test server:
 

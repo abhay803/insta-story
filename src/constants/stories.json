@@ -2,49 +2,49 @@
   {
     "storyId": "1",
     "storyName": "John Doe",
-    "storyUrl": "http://localhost:5173/sample-stories/201.jpg",
+    "storyUrl": "/sample-stories/201.jpg",
     "isNewStory": true
   },
   {
     "storyId": "2",
     "storyName": "Jane Smith",
-    "storyUrl": "http://localhost:5173/sample-stories/202.jpg",
+    "storyUrl": "/sample-stories/202.jpg",
     "isNewStory": false
   },
   {
     "storyId": "3",
     "storyName": "Alice Johnson",
-    "storyUrl": "http://localhost:5173/sample-stories/203.jpg",
+    "storyUrl": "/sample-stories/203.jpg",
     "isNewStory": true
   },
   {
     "storyId": "4",
     "storyName": "Bob Brown",
-    "storyUrl": "http://localhost:5173/sample-stories/204.jpg",
+    "storyUrl": "/sample-stories/204.jpg",
     "isNewStory": false
   },
   {
     "storyId": "5",
     "storyName": "Charlie Davis",
-    "storyUrl": "http://localhost:5173/sample-stories/205.jpg",
+    "storyUrl": "/sample-stories/205.jpg",
     "isNewStory": true
   },
   {
     "storyId": "6",
     "storyName": "Diana Evans",
-    "storyUrl": "http://localhost:5173/sample-stories/206.jpg",
+    "storyUrl": "/sample-stories/206.jpg",
     "isNewStory": false
   },
   {
     "storyId": "7",
     "storyName": "Ethan Foster",
-    "storyUrl": "http://localhost:5173/sample-stories/207.jpg",
+    "storyUrl": "/sample-stories/207.jpg",
     "isNewStory": true
   },
   {
     "storyId": "8",
     "storyName": "Fiona Green",
-    "storyUrl": "http://localhost:5173/sample-stories/208.jpg",
+    "storyUrl": "/sample-stories/208.jpg",
     "isNewStory": false
   }
 ]
