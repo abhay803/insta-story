@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Current Deployment
 
-You can preview the latest deployment here: [Live Preview](https://insta-story-git-feature-a-245ae9-abhay-singhs-projects-e8eab2f5.vercel.app/)
+You can preview the latest deployment here: [Live Preview](https://insta-story-dusky.vercel.app/)
 
 ## Running the Application
 
