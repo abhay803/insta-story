@@ -1,0 +1,14 @@
+.story-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.story-content {
+  display: flex;
+}
+
+.story-content img {
+  width: 100%;
+  height: calc(100vh - 80px); /* Adjust height based on header */
+}

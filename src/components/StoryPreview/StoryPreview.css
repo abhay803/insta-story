@@ -1,0 +1,22 @@
+.story-preview {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+  flex-shrink: 0;
+  scroll-snap-align: start;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  padding: 0 4px;
+}
+
+.story-preview-image {
+  width: 100%;
+  height: auto;
+  border-radius: 100%;
+}
+
+.new-story {
+  border: 2px solid red;
+}
